@@ -1,0 +1,22 @@
+{
+  "name": "stripe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xfunnelbuilder/Stripe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xfunnelbuilder/Stripe/issues"
+  },
+  "homepage": "https://github.com/Xfunnelbuilder/Stripe#readme",
+  "dependencies": {
+    "stripe": "^12.1.1"
+  }
+}
